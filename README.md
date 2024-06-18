@@ -1,5 +1,5 @@
 # smallermp4s
-A linux project dedicated to simplifying the process of shrinking mp4 sizes.
+A linux project dedicated to simplifying the process of shrinking mp4 sizes. This was mainly made for sending files over discord for users that do not have the money to spend on their ***Nitro*** subscription.
 
 # Dependencies
 You will need the following packages: GCC and ffmpeg.
