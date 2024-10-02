@@ -8,6 +8,9 @@ Install them using these commands:
 ```bash
 sudo pacman -S gcc ffmpeg
 ```
+```bash
+sudo apt install gcc ffmpeg
+```
 
 # Build
 You can build it buy running g++.
